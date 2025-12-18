@@ -14,6 +14,7 @@ This generator uses a strange algorithm, but ts working so idc.
 2. [ ] - Real-time editing, to make more lakes, mountains, to modify relief in short.
 3. [ ] - Generating countries, cities and villages (with territory boundary).
 4. [ ] - Saving modes, like, temperature maps, only biomes, only cities, medieval mode and more.
+5. [ ] - UI or something...
 
 ---
 
