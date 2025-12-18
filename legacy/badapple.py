@@ -2,7 +2,7 @@ import os
 import numpy as np
 import pygame
 
-FRAME_DIR = "heightmaps"
+FRAME_DIR = "utils/heightmaps"
 frames = sorted(f for f in os.listdir(FRAME_DIR) if f.endswith(".npy"))
 frame_id = 0
 
